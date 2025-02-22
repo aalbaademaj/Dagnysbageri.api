@@ -1,0 +1,32 @@
+[
+  {
+    "itemNumber": "AT6784",
+    "productName": "Socker",
+    "description": "Socker är en naturlig sötningsmedel som huvudsakligen utvinns från sockerrör och sockerbetor. Det är en viktig ingrediens i matlagning och bakning, känd för sin söta smak och sin förmåga att ge struktur och volym till olika livsmedel. Socker används också som konserveringsmedel i vissa produkter. Det finns i olika former, inklusive vitt socker, brunt socker, och pudersocker.",
+    "priceKg": 21.93
+  },
+  {
+    "itemNumber": "AT6785",
+    "productName": "Mjöl",
+    "description": "Mjöl är en grundläggande ingrediens som framställs genom att mala spannmål, som vete, majs, råg eller ris. Det används i en mängd olika matlagning- och bakningsrecept för att skapa bröd, kakor, bakverk, såser och pasta. Mjöl ger struktur och konsistens till bakverk och är en oumbärlig del av köket.",
+    "priceKg": 10.48
+  },
+  {
+    "itemNumber": "AT6786",
+    "productName": "Mjölk",
+    "description": "Mjölk är en näringsrik vätska som produceras av däggdjur och är en viktig källa till kalcium, protein, och andra essentiella näringsämnen. Den används ofta som dryck, i matlagning, bakning och för att tillverka mejeriprodukter som ost, yoghurt, och smör.",
+    "priceKg": 10.86
+  },
+  {
+    "itemNumber": "AT6787",
+    "productName": "Smör",
+    "description": "Smör är en rik och krämig mejeriprodukt som tillverkas genom att kärna grädde eller mjölk. Det används ofta i matlagning och bakning för att ge smak, konsistens, och textur till rätter. Smör är en mångsidig ingrediens som kan användas för att steka, baka, smörja bröd, och som en del av såser och konditorivaror.",
+    "priceKg": 32.48
+  },
+  {
+    "itemNumber": "AT6788",
+    "productName": "Salt",
+    "description": "Salt är en essentiell mineral som främst består av natriumklorid.Det är en av de äldsta och mest använda kryddorna i världen, känd för att förbättra och balansera smaker i matlagning. Förutom att användas som smaksättare, spelar salt en viktig roll i konservering av livsmedel, då det hjälper till att bevara och förhindra förstörelse.",
+    "priceKg": 16.56
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "storeName": "GoodFood",
+    "phone": "+46-763444566",
+    "email": "martin@gmail.com",
+    "contactPerson": "Martin Svensson"
+  },
+  {
+    "id": 3,
+    "storeName": "Willys",
+    "phone": "+46-763444566",
+    "email": "martin@gmail.com",
+    "contactPerson": "Martin Svensson"
+  },
+  {
+    "id": 2,
+    "storeName": "Ica",
+    "phone": "+46-763444566",
+    "email": "martin@gmail.com",
+    "contactPerson": "Martin Svensson"
+  }
+]

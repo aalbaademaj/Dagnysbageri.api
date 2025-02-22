@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "itemNumber": "AB677",
+    "productName": "Kanelbulle",
+    "piecePrice": 15,
+    "weight": 80,
+    "packQuantity": 6,
+    "productionDate": "2025-02-19",
+    "expireDate": "2025-02-26"
+  },
+  {
+    "id": 2,
+    "itemNumber": "AB678",
+    "productName": "Surdegsbröd",
+    "piecePrice": 40,
+    "weight": 500,
+    "packQuantity": 1,
+    "productionDate": "2025-02-19",
+    "expireDate": "2025-02-26"
+  },
+  {
+    "id": 3,
+    "itemNumber": "AB679",
+    "productName": "Chokladmuffins",
+    "piecePrice": 20,
+    "weight": 120,
+    "packQuantity": 4,
+    "productionDate": "2025-02-19",
+    "expireDate": "2025-02-26"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "MilkLand",
+    "contactPerson": "Karl Andersson",
+    "phone": "+46-735679876",
+    "email": "karl.andersson@gmail.com",
+    "addresses": [
+      {
+        "addressLine": "Resengatan 7",
+        "city": "Stockholm",
+        "postalCode": "187 89",
+        "addressType": 3
+      }
+    ]
+  },
+  {
+    "name": "SweetCompany",
+    "contactPerson": "James Svensson",
+    "phone": "+46-763345689",
+    "email": "james.svensson@gmail.com",
+    "addresses": [
+      {
+        "addressLine": "Strandvägen 97",
+        "city": "Kristianstad",
+        "postalCode": "567 32",
+        "addressType": 3
+      }
+    ]
+  },
+  {
+    "name": "MatoMer",
+    "address": "Bilgatan 37, 754 80, Borås",
+    "contactPerson": "Ines Karlstrom",
+    "phone": "+46-74678906",
+    "email": "ines.karlstrom@hotmail.com",
+    "addresses": [
+      {
+        "addressLine": "Bilgatan 37",
+        "city": "Borås",
+        "postalCode": "754 80",
+        "addressType": 3
+      }
+    ]
+  }
+]
